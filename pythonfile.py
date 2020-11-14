@@ -7,3 +7,6 @@ class Website:
 		self.data[self.length] = item
 		self.length+=1
 
+	def finish(self):
+		print('It's finished)
+
