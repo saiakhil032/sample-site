@@ -10,3 +10,8 @@ class Website:
 	def finish(self):
 		print("It's finished")
 
+	def addingparameters(self, a, b):
+		return a+b
+		
+
+
